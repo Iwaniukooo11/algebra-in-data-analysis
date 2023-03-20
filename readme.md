@@ -1,7 +1,7 @@
 
   
 
-# [PL] Projekty z przemdiotu ,Algebra w analizie danych'
+# [PL] Projekty z przedmiotu ,Algebra w analizie danych'
 
   
   
