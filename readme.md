@@ -47,7 +47,11 @@ Rozwiązanie zadań na pierwszy projekt z przedmiotu **,,Algebra w analizie dany
 * Macierze podobne
 
 **Projekt 2**:
-* Jeszcze nie zadany
+* Kody liniowe
+* Metryki
+* Odległość Hamminga
+* Słowa kodowe
+* Dekodowanie MinimizeHammingDistance
 
  **Projekt 3**:
 * Jeszcze nie zadany
@@ -114,7 +118,11 @@ Soloutions of problems prepared for 1 project from **,,Algebra in Data Analysis'
 * Similar matrices
 
 **Project 2 :**
-- Not asseset yet
+* Linear codes.
+* Metrics
+* Hamming distance
+* Code words.
+* MinimizeHammingDistance decoding.
 
 **Project 3 :**
 - Not asseset yet
