@@ -6,7 +6,7 @@
   
   
 
-Rozwiązanie zadań na pierwszy projekt z przedmiotu **,,Algebra w analizie danych'**
+Rozwiązanie zadań i projekty z przedmiotu **,,Algebra w analizie danych'**
 
   
 
@@ -75,7 +75,7 @@ Rozwiązanie zadań na pierwszy projekt z przedmiotu **,,Algebra w analizie dany
   
   
 
-Soloutions of problems prepared for 1 project from **,,Algebra in Data Analysis'** subject
+Soloutions of problems prepared for projects from **,,Algebra in Data Analysis'** subject
 
   
 
